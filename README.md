@@ -1,7 +1,6 @@
 # DocuGenie: Chat with Any PDF using Gemini AI
 
 DocuGenie is an intelligent, generative AI-powered application that allows users to upload any PDF file and interact with its contents through natural language queries. Built using Google's Gemini API, the app can answer complex questions, summarize content, and extract key insights from academic papers, business reports, legal documents, and more in real time. DocuGenie is a cutting-edge Gen AI application designed to revolutionize how users interact with documents. By combining the power of Google's Gemini API with seamless PDF parsing and natural language understanding, this project enables instant, intelligent conversations with any uploaded PDF. Whether you're a student, researcher, lawyer, or business analyst, DocuGenie simplifies complex document comprehension by answering your questions in real time with high accuracy and speed. Its sleek Streamlit interface, efficient document chunking, and rapid Gemini-powered responses make it a standout solution in the growing field of document-based AI assistants.
-
 ## Features
 
 - Uses Gemini Pro API for large language model-based answers
